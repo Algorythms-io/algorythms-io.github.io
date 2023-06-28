@@ -12,7 +12,7 @@
   --blue: #0000ff;
   --indigo: #3d5afe;
   --purple: #aa00ff;
-  --pink: #ff31c2;
+  --pink: #FFBD29;
   --red: #ff1744;
   --orange: #f6c343;
   --yellow: #ffff00;
@@ -22,7 +22,7 @@
   --white: #ffffff;
   --gray: #868e96;
   --gray-dark: #343a40;
-  --primary: #ff31c2;
+  --primary: #FFBD29;
   --secondary: #0000ff;
   --success: #5cc72a;
   --info: #00e5ff;
@@ -1179,7 +1179,7 @@ mark,
   .form-control:focus {
     color: #000000;
     background-color: #ffffff;
-    border-color: #ff31c2;
+    border-color: #FFBD29;
     outline: 0;
     box-shadow: none; }
   .form-control::-webkit-input-placeholder {
@@ -1559,18 +1559,18 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #ffffff;
-  background-color: #ff31c2;
-  border-color: #ff31c2; }
+  background-color: #FFBD29;
+  border-color: #FFBD29; }
   .btn-primary:hover {
     color: #ffffff;
-    background-color: #ff0bb7;
-    border-color: #fd00b2; }
+    background-color: #252525;
+    border-color: #252525; }
   .btn-primary:focus, .btn-primary.focus {
     box-shadow: 0 0 0 0.2rem rgba(255, 49, 194, 0.5); }
   .btn-primary.disabled, .btn-primary:disabled {
     color: #ffffff;
-    background-color: #ff31c2;
-    border-color: #ff31c2; }
+    background-color: #FFBD29;
+    border-color: #FFBD29; }
   .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
   .show > .btn-primary.dropdown-toggle {
     color: #ffffff;
@@ -1742,24 +1742,24 @@ fieldset:disabled a.btn {
       box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.5); }
 
 .btn-outline-primary {
-  color: #ff31c2;
+  color: #FFBD29;
   background-color: transparent;
   background-image: none;
-  border-color: #ff31c2; }
+  border-color: #FFBD29; }
   .btn-outline-primary:hover {
     color: #ffffff;
-    background-color: #ff31c2;
-    border-color: #ff31c2; }
+    background-color: #FFBD29;
+    border-color: #FFBD29; }
   .btn-outline-primary:focus, .btn-outline-primary.focus {
     box-shadow: 0 0 0 0.2rem rgba(255, 49, 194, 0.5); }
   .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-    color: #ff31c2;
+    color: #FFBD29;
     background-color: transparent; }
   .btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active,
   .show > .btn-outline-primary.dropdown-toggle {
     color: #ffffff;
-    background-color: #ff31c2;
-    border-color: #ff31c2; }
+    background-color: #FFBD29;
+    border-color: #FFBD29; }
     .btn-outline-primary:not(:disabled):not(.disabled):active:focus, .btn-outline-primary:not(:disabled):not(.disabled).active:focus,
     .show > .btn-outline-primary.dropdown-toggle:focus {
       box-shadow: 0 0 0 0.2rem rgba(255, 49, 194, 0.5); }
@@ -2215,7 +2215,7 @@ input[type="button"].btn-block {
   vertical-align: text-top !important; }
 
 .bg-primary {
-  background-color: #ff31c2 !important; }
+  background-color: #FFBD29 !important; }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
@@ -2315,7 +2315,7 @@ button.bg-dark:focus {
   border-left: 0 !important; }
 
 .border-primary {
-  border-color: #ff31c2 !important; }
+  border-color: #FFBD29 !important; }
 
 .border-secondary {
   border-color: #0000ff !important; }
@@ -4903,7 +4903,7 @@ button.bg-dark:focus {
   color: #ffffff !important; }
 
 .text-primary {
-  color: #ff31c2 !important; }
+  color: #FFBD29 !important; }
 
 a.text-primary:hover, a.text-primary:focus {
   color: #fd00b2 !important; }
@@ -5027,10 +5027,10 @@ a.text-dark:hover, a.text-dark:focus {
 Custom CSS
 *****************/
 ::-moz-selection {
-  background-color: #ff31c2;
+  background-color: #FFBD29;
   color: #ffffff; }
 ::selection {
-  background-color: #ff31c2;
+  background-color: #FFBD29;
   color: #ffffff; }
 
 a:not(.heading-brand) {
@@ -5102,7 +5102,7 @@ footer a {
   vertical-align: middle;
   background-color: #f8f9fa;
   margin-right: 1rem;
-  color: #ff31c2; }
+  color: #FFBD29; }
   .icon-box .icon-box-inner {
     display: -ms-flexbox;
     display: flex;
@@ -5114,4 +5114,4 @@ footer a {
 
 /*Gradients*/
 .bg-gradient {
-  background-image: radial-gradient(circle farthest-corner at 10% 20%, #ff97e0 0%, #ff31c2 90%); }
+  background-image: radial-gradient(circle farthest-corner at 10% 20%, #ff97e0 0%, #FFBD29 90%); }
