@@ -1,8 +1,13 @@
-Privacy Policy for [Your Company Name] Shopify Apps
+---
+layout: default
+title: Privacy Policy
+---
 
-Last Updated: [Insert Date]
+Privacy Policy for Algorythms Shopify Apps
 
-At [Your Company Name], we respect the privacy of our users. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Shopify apps. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the apps.
+Last Updated: 22/10/2023
+
+At Algorythms, we respect the privacy of our users. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Shopify apps. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the apps.
 
 1. COLLECTION OF YOUR INFORMATION
 
@@ -33,6 +38,6 @@ The apps may contain links to third-party websites and applications of interest,
 
 If you have questions or comments about this Privacy Policy, please contact us at:
 
-[Your Company Name]
-[Your Company Address]
-Email: [Your Email Address]
+Algorythms
+Cairo, Egypt
+Email: hello@algorythms.io
